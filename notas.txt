@@ -1,0 +1,11 @@
+ejemplo nodejs
+ejemplo nodejs modo desarrollo
+ejemplo nodejs redis
+ejemplo compose
+ejemplo swarm
+
+ejercicio elk
+ejercicio stack compose swarm
+ejercicio nginx balanceo swarm
+ejercicio monitoring swarm
+ejercicio swarm con redis solo en manager
